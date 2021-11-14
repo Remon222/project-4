@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/Remon222/project-4/tree/main.svg?style=svg)](https://circleci.com/gh/Remon222/project-4/tree/main)
+<include a CircleCI status badge, here>
 
 ## Project Overview
 
