@@ -1,10 +1,10 @@
 [![CircleCI](https://circleci.com/gh/Remon222/project-4/tree/main.svg?style=svg)](https://circleci.com/gh/Remon222/project-4/tree/main)
 
-#### Project Overview
+# Project Overview
 
 Deploy a containerized Python application to make a house price predictions. It uses a a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features.
 
-#### Instructions on how to run the Python scripts and web app
+# Instructions on how to run the Python scripts and web app
 
 - Create a virtualenv and activate it
 	python3 -m venv .devops
@@ -17,13 +17,13 @@ Deploy a containerized Python application to make a house price predictions. It 
 	Hadolint and pylint    >>>> (try make lint to check that everything will pass )
 	Kubernetes (Minikube & kubectl)
 
-# To Run the App
+### To Run the App
 
 1. Localy:  `python app.py`
 2. Run in Docker container localy:  `./run_docker.sh`
 3. Run in Kubernetes cluster localy:  `./run_kubernetes.sh`
 
-#### A short explanation of the files in the repository
+# A short explanation of the files in the repository
 
 .circleci/config.yml >> configuration file for the CI/CD pipeline containing the workflow jobs
 
