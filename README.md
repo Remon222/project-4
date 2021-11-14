@@ -16,6 +16,7 @@ Deploy a containerized Python application to make a house price predictions. It 
 	Docker
 	Hadolint and pylint    >>>> (try make lint to check that everything will pass )
 	Kubernetes (Minikube & kubectl)
+    
 
 ### To Run the App
 
