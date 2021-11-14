@@ -1,0 +1,9 @@
+[2021-11-14 18:28:26,144] INFO in app: JSON payload:
+{json_payload}
+[2021-11-14 18:28:26,151] INFO in app: Inference payload DataFrame:
+{inference_payload}
+[2021-11-14 18:28:26,163] INFO in app: Scaling Payload:
+   CHAS     RM    TAX  PTRATIO      B  LSTAT
+0     0  6.575  296.0     15.3  396.9   4.98
+[2021-11-14 18:28:26,166] INFO in app: The Predicted Price is : {prediction}
+172.17.0.1 - - [14/Nov/2021 18:28:26] "POST /predict HTTP/1.1" 200 -
